@@ -14,8 +14,6 @@ Programmer(
   )
 )
 ```
-### Experience 
-
 
 ### 💻 Programming Language
 
