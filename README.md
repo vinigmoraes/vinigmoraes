@@ -1,6 +1,6 @@
-## Hello Visitor 👋
+## Hello There 😃
 
-I'm Vinícius Moraes, I had been working as programmer since 2013, mostly of my experience was build in startup companies.
+I'm Vinícius Gonçalves Moraes 🇧🇷 , I had been working as programmer since 2013, mostly of my experience was build in startup companies.
 
 My focus in software development is Backend, but if needed I can handle some development in Frontend, mostly of my experience was coding using Kotlin, but now I'm totally focused in learn Python.
 
