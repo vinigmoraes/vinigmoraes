@@ -7,9 +7,11 @@ My focus in software development is Backend, but if needed I can handle some dev
 Currently I'm working at [Zé Delivery](https://www.ze.delivery/) as Software Engineer.
 
 
-### 💻 Programming Language 
+### 💻 Programming Language & Github Stats
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinigmoraes&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinigmoraes&layout=compact"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinigmoraes&show_icons=true&theme=dark)
 
 ### 📖 Lastests Posts
 
