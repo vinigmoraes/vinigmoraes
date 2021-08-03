@@ -9,9 +9,7 @@ Currently I'm working at [Zé Delivery](https://www.ze.delivery/) as Software En
 
 ### 💻 Programming Language & Github Stats
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinigmoraes&layout=compact"> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinigmoraes&show_icons=true&theme=dark)
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinigmoraes&layout=compact&theme=dark"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ### 📖 Lastests Posts
 
