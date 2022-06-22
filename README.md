@@ -2,9 +2,9 @@
 
 I'm Vinícius Gonçalves Moraes 🇧🇷 , I have been working as programmer since 2013, mostly of my experience was build in startup companies.
 
-My focus in software development is Backend, but if needed I can handle some development in Frontend, mostly of my experience was coding using Kotlin, but now I'm totally focused in learn Python.
+My focus in software development is Backend, but if needed I can handle some development in Frontend, mostly of my experience was coding using Kotlin and Python, but now I'm totally focused in learn Typescript.
 
-Currently I'm working at [Zé Delivery](https://www.ze.delivery/) as Software Engineer.
+Currently I'm working at [Drip](https://usedrip.com.br/) as Senior Software Engineer.
 
 
 ### 💻 Programming Language & Github Stats
