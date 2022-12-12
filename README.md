@@ -2,9 +2,9 @@
 
 I'm Vinícius Gonçalves Moraes 🇧🇷 , I have been working as a programmer since 2013, mostly of my experience was build in startup companies.
 
-My focus in software development is Backend, but if necessary I can handle some development in Frontend, mostly of my experience was coding using Kotlin and Python, but now I'm totally focused in learn Typescript.
+My focus in software development is Backend, but if necessary I can handle some development in Frontend, mostly of my experience was coding using Java/Kotlin & Python.
 
-Currently I'm working at [Drip](https://usedrip.com.br/) as Senior Software Engineer.
+Currently I'm working at [Mercado Livre](https://www.mercadolivre.com.br/) as Senior Software Engineer.
 
 
 ### 💻 Programming Language & Github Stats
