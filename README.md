@@ -2,7 +2,7 @@
 
 I'm Vinícius Gonçalves Moraes 🇧🇷 , I have been working as a programmer since 2013.
 
-Mostly of my experience was build working in startup companies, using programming language like Java/Kotlin & Python.
+Mostly of my experience was build working in startup companies, using programming language like Java/Kotlin & Python, but now Im focused in learn Frontend using Typescript and ReactJS.
 
 Currently I'm working at [Mercado Livre](https://www.mercadolivre.com.br/) as Senior Software Engineer.
 
